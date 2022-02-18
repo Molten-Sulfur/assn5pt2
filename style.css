@@ -2,19 +2,19 @@ html,
 body,
 #bostonDiv {
   height: 650px; 
-  margin-left: 10%;
-  width: 80%;
+  margin-left: 3%;
+  width: 94%;
 }
 
 h1 {
   color: #3D3D3D;
-  margin-left:10%;
+  margin-left:3%;
   font-family: verdana;
 }
 
 p {
   color: #3D3D3D;
-  margin-left:10%;
+  margin-left:3%;
   font-family: garamond;
   font-size: 60%;
 }
